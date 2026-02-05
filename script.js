@@ -160,9 +160,9 @@ function screenUi() {
         }
         gameBoard.resetBoard();
         boardUi();
-        playerTurn.textContent = game.getActivePlayer().name + " Turn now";
         player1.value = "";
         player2.value = "";
+        playerTurn.textContent = game.getActivePlayer().name + " Turn now";
         formContainer.classList.add("hidden");
     });
 
