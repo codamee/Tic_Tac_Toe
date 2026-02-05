@@ -2,6 +2,8 @@
 
 A modern, interactive Tic-Tac-Toe game built with vanilla JavaScript, focusing on clean code principles, the **Module Pattern**, and **Factory Functions**.
 
+### [Live Demo](https://codamee.github.io/Tic_Tac_Toe/)
+
 ### 🚀 Features
 
 - **Dynamic Player Setup:** Custom names can be entered via a modal interface.
