@@ -48,10 +48,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    backdrop-filter: blur(50px);
     flex-direction: column;
     gap: 100px;
-    color: #01542d;
+    background: #a0ffa7;  
 }
 form {
     width: 400px;
