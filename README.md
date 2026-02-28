@@ -3,8 +3,8 @@
 A classic browser-based Tic-Tac-Toe game built with a focus on the **Module Pattern** and **IIFEs (Immediately Invoked Function Expressions)**. This project emphasizes clean, decoupled code and minimal global scope.
 
 <p align="center">
-  <img src="./screenshot.png" alt="Tic-Tac-Toe Preview" width="500">
-  <img src="./screenshot1.png" alt="Tic-Tac-Toe Preview" width="500">
+  <img src="./screenshot1.png" alt="Tic-Tac-Toe Preview" width="45%">
+  <img src="./screenshot.png" alt="Tic-Tac-Toe Preview" width="45%">
 </p>
 
 ## 🚀 Live Demo
